@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "WELCOME TO DEVOPS SHACK";
+		return "WELCOME TO GURUSCHOOLS..NOW YOU ARE DEPLOYED A JAVA APP USING JENKINS CICD PIPELINE AND THE DPLOYED TO KUBERNETES";
 	}
 
 	public static void main(String[] args) {
